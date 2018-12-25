@@ -1,0 +1,103 @@
+﻿  Main.cpp
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(12): error C2011: 'PhongKS': 'class' type redefinition
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongbt.h(4): error C2504: 'PhongKS': base class undefined
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongvip.h(3): error C2504: 'PhongKS': base class undefined
+  PhongKS.cpp
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(12): error C2011: 'PhongKS': 'class' type redefinition
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongbt.h(4): error C2504: 'PhongKS': base class undefined
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongvip.h(3): error C2504: 'PhongKS': base class undefined
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(6): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(9): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(20): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(22): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(23): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(24): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(25): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(26): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(27): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(31): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(33): warning C4508: '{dtor}': function should return a value; 'void' return type assumed
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(38): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(39): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(41): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(43): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(44): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(45): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(53): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(63): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(63): error C2672: 'getline': no matching overloaded function found
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(63): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(160): note: see declaration of 'std::getline'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(63): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(149): note: see declaration of 'std::getline'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(63): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(129): note: see declaration of 'std::getline'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(63): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(76): note: see declaration of 'std::getline'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(64): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(70): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(71): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(74): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(76): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(78): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(80): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(83): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(86): error C2039: 'sNguoi': is not a member of 'PhongBT'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongbt.h(3): note: see declaration of 'PhongBT'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(86): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(87): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(87): error C2039: 'gia': is not a member of 'PhongBT'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongbt.h(3): note: see declaration of 'PhongBT'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(92): error C2039: 'sNguoi': is not a member of 'PhongVIP'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongvip.h(2): note: see declaration of 'PhongVIP'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(92): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(93): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.cpp(93): error C2039: 'gia': is not a member of 'PhongVIP'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongvip.h(2): note: see declaration of 'PhongVIP'
+  QuanLy.cpp
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(12): error C2011: 'PhongKS': 'class' type redefinition
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongvip.h(3): error C2504: 'PhongKS': base class undefined
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\quanly.cpp(51): error C2079: 'p' uses undefined class 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\quanly.cpp(51): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\quanly.cpp(63): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\quanly.cpp(80): warning C4150: deletion of pointer to incomplete type 'PhongKS'; no destructor called
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\quanly.cpp(82): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\quanly.cpp(86): warning C4150: deletion of pointer to incomplete type 'PhongKS'; no destructor called
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\quanly.cpp(87): error C2440: '=': cannot convert from 'PhongVIP *' to 'PhongKS *'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\quanly.cpp(87): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\quanly.cpp(88): error C2027: use of undefined type 'PhongKS'
+  d:\hoc tap\oop\102160049_16t1_bt03\102160049_16t1_bt03\phongks.h(11): note: see declaration of 'PhongKS'
+  Generating Code...
